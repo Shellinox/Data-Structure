@@ -13,10 +13,5 @@ int main(){
        sum=sum+array[i];
     }
     printf("The sum is %d",sum);
-    // for (int i = 0; i < 5; i++)
-    // {
-    //    printf("%d ",array[i]);
-    // }
-    
 return 0;
 }
